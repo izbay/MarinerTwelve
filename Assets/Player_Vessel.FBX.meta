@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: cbc203def4f1e144a886cf9d3a182f17
+timeCreated: 1435021402
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Capsule001
+    100004: Capsule002
+    100006: Capsule003
+    100008: Capsule004
+    100010: Engine
+    100012: Exterior
+    100014: Exterior001
+    100016: Floor1
+    100018: Floor2
+    100020: Interior
+    100022: OilTank001
+    100024: //RootNode
+    400000: Box001
+    400002: Capsule001
+    400004: Capsule002
+    400006: Capsule003
+    400008: Capsule004
+    400010: Engine
+    400012: Exterior
+    400014: Exterior001
+    400016: Floor1
+    400018: Floor2
+    400020: Interior
+    400022: OilTank001
+    400024: //RootNode
+    2300000: Box001
+    2300002: Capsule001
+    2300004: Capsule002
+    2300006: Capsule003
+    2300008: Capsule004
+    2300010: Engine
+    2300012: Exterior
+    2300014: Exterior001
+    2300016: Floor1
+    2300018: Floor2
+    2300020: Interior
+    2300022: OilTank001
+    3300000: Box001
+    3300002: Capsule001
+    3300004: Capsule002
+    3300006: Capsule003
+    3300008: Capsule004
+    3300010: Engine
+    3300012: Exterior
+    3300014: Exterior001
+    3300016: Floor1
+    3300018: Floor2
+    3300020: Interior
+    3300022: OilTank001
+    4300000: Exterior
+    4300002: Interior
+    4300004: Floor2
+    4300006: Floor1
+    4300008: Engine
+    4300010: Capsule001
+    4300012: Capsule002
+    4300014: Capsule003
+    4300016: Box001
+    4300018: Capsule004
+    4300020: OilTank001
+    4300022: Exterior001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
